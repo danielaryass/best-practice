@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# claude ai files
+.claude/
+
+# temp files
+nul
+project-structure.txt
